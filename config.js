@@ -6,7 +6,7 @@ const fs = require('fs'),
 
 //add your session id
 
-global.session = "https://khanxmd-pair.onrender.com"; 
+global.sessiofalK~H4sIAAAAAAAAA5VU25KiSBD9l3rFGAUExIiOWETlZqPiBWFjH0oosOTaVSWKE/77BvZM9zzszva+FUnGyZPnZOZ3UFaYIge1YPwd1AQ3kKHuydoagTGYXJIEEdADMWQQjIE15dnJjgovN+zlfGHNTRGeb2EoFle65vz7cJnLvH/wGj57AY8eqC/HHEe/AWRDNjf3xSG9+vZtclPmYZbf+bWz1CXnbi2uDuKaQNdOvBa8gEeHCDHBZTqrT6hABOYOalcQk6/RN169+jSTDwexOFv2kk6V65oeL7a6zIW36JxJW06OJx5v7YOv0Z/tpWYac0jUtm+wTu/5bgPLgqZuNZDEkF4t89y/X+tD4tF3+hSnJYqtGJUMs/bLuhfG4rixY9s9xOk+4JLYLFsXmfPIODj8WyE1tHD7FjLEvfU14lDjdudZVfVFPQi1O/96bHfK3IEGTJfSRBN3NZe1OLsNtqNfia/Iz1nJ/o/u/uSs3nW9DwMv4FeDiNsUvq2td2HkExsG8TqbumqcU1v4ou6kOSPJwJvSOwWVqAj1KtjaFjRuxWUzmV+d9eKO9LfNIhWjT/qQXcjvWEpZGMP27U2w5bZy1VBWKXPi9ammmPgeGaTL0jXJdD3a+HSg0drfr7Js288GeEgsfaY3ZpOdq81oxvU3O10Jw5Boqfby7ChDrRWDMf/oAYJSTBmBDFdlFxOGSg/AuNmgiCD2lBcMZUkUR0R9zRjHy7rUjw7H5DqSnKsUGbLvKtLc21z7SsKiF9ADNakiRCmKTUxZRdpXRClMEQXjP//qgRLd2LtxXbkRL/ZAggllu/JS5xWMf9r68RdGUXUp2aYtI717IALGg88wYgyXKe2UvJSQRCfcIP0EGQXjBOYUffSICIrBmJEL+thbvYo76R1Tc7cz3QQ9UDwtwTEYA0EaKrwgKwLPS2OV/4N+u3awsK6/lYiBHsifaeqIHynqSOYFaTTq8rrw44NfBxcjBnFOwRjo9t3MOM2YLQ+3/LUyDG2Wanqqgc9+fo7Gu/Tx1J/vpluvb5KALPpQXKkHAbtygif9fTg0j5U7uctRGRrByz+AgDE4bw2ba/WGTQszzoLtFc3k0HCs9nhSFmQge0fnticbTxvhrZU1x106Xbja0hdXthu8JqELq6vqc4NBdjRMpiijVBWm15euWowaHKFfixkDZcvLdXv2YLvwFwvDVuYnKPurQzC/cdqaO8g5OovHnboPFEVqKkWdFol3M2etdqtm7TLZuMeGW8Y15srtXpjPy/C8fh/a59LkP44Vfo5T51T3mWD03P0Sdv79t3PvxLsJGzx6v2D8uCb/spGTw5o/7bXBILnJgtP2BXbv79XqjMphmvA+mgjydB1xpS14BXg8/uqBOocsqUjRnbgyJhWOQQ+Q6tJNrFUm1W+K6RPLmqxTt+s8h5Rpn1uwxQWiDBY1GPOKLPPDoSCK71krUtUmpCcwBrwzPJlD8PgbIUKdRlUHAAA="https://khanxmd-pair.onrender.com"; 
  
  
 module.exports = {
@@ -17,7 +17,7 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
 AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed By JAWAD MD", // // Input Yours custom...
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Be sure lewi won't view this..Jawad md running Lewi's account automatically under his hacking achievementstom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273", // Only 1 owner Number Here, others Add to sudo numbers...
 OWNER_NAME: process.env.OWNER_NAME || "JawadTech", // Input Yours custom...(Maintain font for Flow)
